@@ -11,53 +11,164 @@ body{
 
 .caja1 {
     background-color:#E4C3B8 ;
-    height: 100px;
+    height: 70px;
+}
+@media(max-width: 768px){
+    .caja1{
+        background-color: #142F30;
+    }
 }
 .caja2 {
     background-color:#C39289 ;
-    height: 100px;
+    height: 270px;
 }
+@media(max-width: 768px){
+    .caja2{
+        background-color: #FAAD8E;
+        height: 170px;
+    }
+}
+
 .caja3 {
     background-color:#AFAEAE ;
-    height: 100px;
+    height: 200px;
 }
+@media(max-width: 1200px){
+    .caja3{
+        height: 270px;
+    }
+}
+@media(max-width: 992px){
+    .caja3{
+        height: 270px;
+    }
+}
+@media(max-width: 768px){
+    .caja3{
+        height: 170px;
+        background-color: #FFD6A3;
+    }
+}
+
+
 .caja4 {
     background-color: #AC7972;
-    height: 100px;
+    height: 200px;
 }
+@media(max-width: 992px){
+    .caja4{
+        height: 200px;
+    }
+}
+@media(max-width: 768px){
+    .caja4{
+        height: 120px;
+        background-color: #FFF0B8;
+    }
+}
+
+
 .caja5 {
     background-color: #9E7969;
-    height: 100px;
+    height: 200px;
 }
+@media(max-width: 768px){
+    .caja5{
+        height: 120px;
+        background-color: #EB9605;
+    }
+}
+
 .caja6 {
     background-color: #7D5948;
-    height: 100px;
+    height: 140px;
 }
+@media(max-width: 1200px){
+    .caja6{
+        height: 200px;
+    }
+}
+@media(max-width: 768px){
+    .caja6{
+        height: 120px;
+        background-color: #DE4126;
+    }
+}
+
 .caja7 {
     background-color: #C09C89;
-    height: 100px;
+    height: 140px;
 }
+@media(max-width: 1200px){
+    .caja7{
+        height: 200px;
+    }
+}
+@media(max-width: 768px){
+    .caja7{
+        height: 120px;
+        background-color: #B0254F;
+    }
+}
+
+
 .caja8 {
     background-color: #D6B69C;
-    height: 100px;
+    height: 140px;
 }
+@media(max-width: 768px){
+    .caja8{
+        height: 100px;
+        background-color: #6E1E62;
+    }
+}
+
 .caja9 {
     background-color: #EBD4B3;
-    height: 100px;
+    height: 140px;
 }
+@media(max-width: 768px){
+    .caja9{
+        height: 100px;
+        background-color: #261C21;
+    }
+}
+
 .caja10 {
     background-color: #9A9DB6;
     height: 100px;
 }
+@media(max-width: 768px){
+    .caja10{
+        background-color: #E47C5D;
+    }
+}
+
 .caja11 {
     background-color: #B89AAC;
     height: 100px;
+}
+@media(max-width: 768px){
+    .caja11{
+        background-color:  #E32D40;
+    }
 }
 .caja12 {
     background-color: #9CAAB5;
     height: 100px;
 }
+@media(max-width: 768px){
+    .caja12{
+        background-color:  #F0DDAA;
+    }
+}
+
 .caja13 {
     background-color: #A2B2CE;
     height: 100px;
+}
+@media(max-width: 768px){
+    .caja13{
+        background-color: #FFEDBF;
+    }
 }
